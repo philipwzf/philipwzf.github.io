@@ -1,7 +1,7 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Philip Wang   # Main site title (appears in browser tab & RSS)
+title: Zhaofeng Wang   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Philip Wang. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: "[Insert Quote Here]."  # Strongly recommended for SEO & social cards
 
@@ -14,6 +14,7 @@ url: https://philipwzf.github.io
 # --------------------------------------------------
 owner:
   name: Zhaofeng (Philip) Wang
+  avatar: avatar.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: philipwang2025@u.northwestern.edu
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf # TODO: Change link

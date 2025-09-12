@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://philipwzf.github.io/profile_pic.jpg" class="floatpic">
 
-Here is **Zhaofeng (Philip) Wang (王照峰)**.<br>
+Hi! My name is **Zhaofeng (Philip) Wang (王照峰)**.<br>
 
 I am a Research Assisstant in the [IDEAS Lab](http://zhulab.ece.northwestern.edu/) at Northwestern Unviersity, supervised by Prof. Qi Zhu. I received my B.S. in Mathematics and Psychology from Northwestern University. During undergrad, I have also had the pleasure of receiving a summer research fund to work with Prof. Zach Wood-Doughty in 2024.
 
