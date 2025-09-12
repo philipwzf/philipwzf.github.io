@@ -3,7 +3,7 @@
 # --------------------------------------------------
 title: Philip Wang   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Philip Wang. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: [Insert Quote Here].  # Strongly recommended for SEO & social cards
+description: "[Insert Quote Here]."  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
