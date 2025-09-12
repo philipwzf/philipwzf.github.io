@@ -4,29 +4,27 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://philipwzf.github.io/profile_pic.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Zhaofeng (Philip) Wang (王照峰)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am a Research Assisstant in the [IDEAS Lab](http://zhulab.ece.northwestern.edu/) at Northwestern Unviersity, supervised by Prof. Qi Zhu. I received my B.S. in Mathematics and Psychology from Northwestern University. During undergrad, I have also had the pleasure of receiving a summer research fund to work with Prof. Zach Wood-Doughty in 2024.
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **philipwang2025 [at] u [dot] northwestern [dot] edu**
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
-- Large Language Model Agents
+- Reinforcement Learning
+- Embodied Agents
+- Cyber-Physical System
+- Control Theory
+- Embodied Safety
 
 ---
 
-## News and Updates
+## News and Updates (TO CHANGE)
 
 - **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
