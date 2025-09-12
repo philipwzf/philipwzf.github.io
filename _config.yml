@@ -14,7 +14,7 @@ url: https://philipwzf.github.io
 # --------------------------------------------------
 owner:
   name: Zhaofeng (Philip) Wang
-  avatar: philipwzf.github.io/profile_pic.jpg
+  avatar: /profile_pic.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: philipwang2025@u.northwestern.edu
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf # TODO: Change link
@@ -22,9 +22,8 @@ owner:
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: philipwzf
-  linkedin: hanlincai
+  linkedin: philip-wang-a3919a270
   scholar: https://scholar.google.com/citations?user=DwhK3lMAAAAJ&hl=en
-  # facebook: caihanlin2002
   instagram: philip_wzf
 
 
@@ -51,14 +50,12 @@ links:
     url: /hobbies/
   - title: Blogs
     url: /blogs/
-  - title: 中文
-    url: /cn/
 
 
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: America/Chicago          # IANA time-zone ID (China/Beijing is invalid)
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force
