@@ -3,7 +3,8 @@ layout: page
 permalink: /blogs/index.html
 title: Blogs
 ---
-
+## TO BE ADDED
+<!-- 
 ## Chinese Blogs 中文博客
 
 ### 2025
@@ -59,4 +60,4 @@ title: Blogs
 
 Finally, my WeChat account is - lancecai2002
 
-<br>
+<br> -->
