@@ -6,15 +6,15 @@
   <title>Zhaofeng (Philip) Wang</title>
 
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-  <meta name="description" content="Zhaofeng (Philip) Wang is a Research Assistant at Northwestern University's IDEAS Lab, working on reinforcement learning, formal methods, and safe autonomous systems.">
+  <meta name="description" content="Zhaofeng (Philip) Wang is a first-year PhD student at Northwestern University's IDEAS Lab, working on reinforcement learning, formal methods, and safe autonomous systems.">
   <meta name="keywords" content="Zhaofeng Wang, Philip Wang, Northwestern University, IDEAS Lab, Reinforcement Learning, Formal Methods, Autonomous Systems, Machine Learning Research">
   
   <meta name="author" content="Zhaofeng (Philip) Wang" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Open Graph tags for social media -->
-  <meta property="og:title" content="Zhaofeng (Philip) Wang - Research Assistant">
-  <meta property="og:description" content="Research Assistant at Northwestern University working on RL, formal methods, and safe autonomous systems">
+  <meta property="og:title" content="Zhaofeng (Philip) Wang - First-year PhD student">
+  <meta property="og:description" content="First-year PhD student at Northwestern University working on RL, formal methods, and safe autonomous systems">
   <meta property="og:url" content="https://philipwzf.github.io/">
   <meta property="og:type" content="website">
   
@@ -40,7 +40,7 @@
                 Zhaofeng (Philip) Wang
               </h1>
               <p>
-                  Hi! My name is <strong>Philip Wang</strong>. I am a Research Assistant in the <a href="http://zhulab.ece.northwestern.edu/">IDEAS Lab</a> at Northwestern University, supervised by Prof. Qi Zhu. I received my B.A. in Mathematics and Psychology from Northwestern University. During undergrad, I have also had the pleasure of receiving a summer research fund to work with Prof. Zach Wood-Doughty in 2024.
+                  Hi! My name is <strong>Philip Wang</strong>. I am a first-year PhD student in the <a href="http://zhulab.ece.northwestern.edu/">IDEAS Lab</a> at Northwestern University, supervised by Prof. Qi Zhu. I received my B.A. in Mathematics and Psychology from Northwestern University. During undergrad, I have also had the pleasure of receiving a summer research fund to work with Prof. Zach Wood-Doughty in 2024.
               </p>
               <p>I have a broad interest at the intersection of reinforcement learning, formal methods, and control for safe autonomous systems. I am excited about integrating formal verification and control-theoretic tools with learning-based methods to obtain safe, interpretable, and scalable embodied agents.
               </p>
@@ -77,8 +77,9 @@
           <tr>
             <td style="width:100%;vertical-align:middle">
               <ul>
-                <li> Stay tuned for more!</li>
-                <!-- <li><strong>09/25&nbsp;:</strong> Our <a href="https://grafting.stanford.edu">Model Grafting</a> work accepted to <a href="https://nips.cc/">NeurIPS'25</a> as Oral</a>!</li> -->
+                <li><strong>[2026.09]</strong> <a href="https://arxiv.org/abs/2510.12985">SENTINEL</a> has been accepted to <strong>NeurIPS 2026</strong>!</li>
+                <li><strong>[2026.01]</strong> <a href="https://arxiv.org/abs/2506.00131">Belief Based Delayed RL</a> has been accepted to <strong>ICLR 2026</strong>!</li>
+                <li><strong>[2026.01]</strong> <a href="https://arxiv.org/abs/2410.03847">Model Enhanced IRL</a> has been accepted to <strong>L4DC 2026</strong>!</li>
               </ul>
             </td>
           </tr>
@@ -89,19 +90,48 @@
           <h2>Selected Publications <span style="font-size:medium;font-weight:normal;">(&ast; = Equal contribution)</span></h2>
           
           <tr>
+            <td style="padding:2.5%;width:35%;vertical-align:middle;min-width:120px">
+              <!-- First 53 seconds of the ManiGuard project overview video. -->
+              <video autoplay muted loop playsinline controls preload="metadata"
+                     poster="./images/maniguard.webp" width="640" height="360"
+                     aria-label="ManiGuard project preview, first 53 seconds, without audio"
+                     style="display:block;width:100%;height:auto;">
+                <source src="./videos/maniguard-preview.mp4" type="video/mp4">
+                <a href="https://nu-ideas-lab.github.io/ManiGuard/">Watch the ManiGuard project video</a>
+              </video>
+            </td>
+            <td style="padding:2.5%;width:65%;vertical-align:middle">
+              <h3>ManiGuard: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation</h3>
+              <br>
+              Yiyan Peng &ast;, <strong><ins>Philip Wang &ast;</ins></strong>, Simon Sinong Zhan &ast;, Yiqi Lyu, Zhenyang Ni, Jixin Yan, Fiorelli Wong, Ruochen Jiao, Hang Yin, Xinyu Cao, Huajie Shao, Manling Li, Ruohan Zhang, Qi Zhu
+
+              <br>
+              <em>arXiv</em>, 2026.
+              <br>
+              <a href="https://arxiv.org/abs/2608.17386" target="_blank">arXiv</a> &nbsp;/&nbsp;
+              <a href="https://nu-ideas-lab.github.io/ManiGuard/" target="_blank" rel="noopener">Project Page</a> &nbsp;/&nbsp;
+              <a href="https://github.com/NU-IDEAS-Lab/ManiGuard" target="_blank" rel="noopener">Code</a>
+
+              <p></p>
+            </td>
+          </tr>
+
+          <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="./images/sentinel.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents</h3>
+              <h3>SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents</h3>
               <br>
-              Simon Sinong Zhan &ast;, Yao Liu &ast;, <strong><ins>Philip Wang &ast;</ins></strong>, Zinan Wang, Qineng Wang, Zhian Ruan, Xiangyu Shi, Xinyu Cao, Frank Yang, Kangrui Wang, Huajie Shao, Manling Li, Qi Zhu
+              Simon Sinong Zhan &ast;, <strong><ins>Philip Wang &ast;</ins></strong>, Justin Liu &ast;, Yiyan Peng &ast;, Yiqi Lyu, Zinan Wang, Qineng Wang, Zhian Ruan, Xiangyu Shi, Xinyu Cao, Frank Yang, Zhenyang Ni, Kangrui Wang, Ruohan Zhang, Huajie Shao, Manling Li, Qi Zhu
 
               <br>
-              <em>Under Review</em>, 2025.
+              <em>NeurIPS</em>, 2026.
               <br>
               
-              <a href="https://arxiv.org/abs/2510.12985" target="_blank">arXiv</a>
+              <a href="https://arxiv.org/abs/2510.12985" target="_blank">arXiv</a> &nbsp;/&nbsp;
+              <a href="https://nu-ideas-lab.github.io/SENTINEL/" target="_blank" rel="noopener">Project Page</a> &nbsp;/&nbsp;
+              <a href="https://github.com/NU-IDEAS-Lab/SENTINEL" target="_blank" rel="noopener">Code</a>
               
               <p></p>
             </td>
@@ -116,13 +146,12 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Belief-Based Offline Reinforcement Learning for Delay-Robust Policy Optimization</h3>
               <br>
-              Simon Sinong Zhan, Qingyuan Wu, <strong><ins>Philip Wang</ins></strong>, Frank Yang, Xiangyu Shi, Chao Huang, Qi Zhu
+              Simon Sinong Zhan &ast;, Qingyuan Wu &ast;, <strong><ins>Philip Wang</ins></strong>, Frank Yang, Xiangyu Shi, Chao Huang, Qi Zhu
 
               <br>
-              <em>Under Review</em>, 2025.
+              <em>ICLR</em>, 2026.
               <br>
-              <!-- Add arXiv link-->
-              <a href="" target="_blank">arXiv</a>
+              <a href="https://arxiv.org/abs/2506.00131" target="_blank">arXiv</a>
               
               <p></p>
             </td>
@@ -137,13 +166,12 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Enhancing Inverse Reinforcement Learning through Encoding Dynamic Information in Reward Shaping</h3>
               <br>
-              Simon Sinong Zhan &ast;, <strong><ins>Philip Wang &ast;</ins></strong>, Qingyuan Wu, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu
+              Simon Sinong Zhan &ast;, <strong><ins>Philip Wang &ast;</ins></strong>, Qingyuan Wu &ast;, Ruochen Jiao, Yixuan Wang, Chao Huang, Qi Zhu
 
               <br>
-              <em>Under Review</em>, 2025.
+              <em>L4DC</em>, 2026.
               <br>
-              <!-- Add arXiv link-->
-              <a href="" target="_blank">arXiv</a>
+              <a href="https://arxiv.org/abs/2410.03847" target="_blank">arXiv</a>
               
               <p></p>
             </td>
@@ -158,7 +186,7 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Inverse Delayed Reinforcement Learning</h3>
               <br>
-              Simon Sinong Zhan &ast;, Qingyuan Wu &ast;, Aria Ruan, Frank Yang, <strong><ins>Philip Wang</ins></strong>, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu
+              Simon Sinong Zhan &ast;, Qingyuan Wu &ast;, Zhian Ruan, Frank Yang, <strong><ins>Philip Wang</ins></strong>, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu
 
               <br>
               <em>arXiv</em>, 2024.
